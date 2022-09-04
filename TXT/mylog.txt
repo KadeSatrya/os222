@@ -2,3 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 20 L04 GitHub Pages related
+ZCZC W00 20 L01 SCELE related
+ZCZC W00 20 L05 (Not) Studying for the quiz
+ZCZC W00 50 L10 Assignment #00 (Reading assignment)
+ZCZC W00 10 L41 TXT/mylog.txt related
+ZCZC W00 200 L02 ZOOM meeting
