@@ -26,3 +26,9 @@ ZCZC W03 150 L09 Week 03 Assignment
 ZCZC W03 20 L01 Scele related
 ZCZC W03 30 L40 TXT/ related
 ZCZC W03 20 L05 Quiz related
+ZCZC W04 100 L02 ZOOM Meetings
+ZCZC W04 100 L99 Offline lecture at campus
+ZCZC W04 180 L09 Week 03 Assignment
+ZCZC W04 20 L01 Scele related
+ZCZC W04 30 L40 TXT/ related
+ZCZC W04 30 L05 Quiz related
