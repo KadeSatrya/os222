@@ -15,3 +15,6 @@ Helped me understand the difference between the two symbols on a variable in C.
 
 4. [What's the difference between * and & in C?](https://stackoverflow.com/questions/28778625/whats-the-difference-between-and-in-c)<br>
 Same as number 3 but with examples and more details.
+
+5. [Format specifiers in C](https://www.javatpoint.com/c-format-specifier)<br>
+A list of some format specifiers that can be used in the printf() function in C.
