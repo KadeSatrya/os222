@@ -43,3 +43,8 @@ ZCZC W06 180 L09 Week 06 Assignment
 ZCZC W06 15 L01 Scele related
 ZCZC W06 20 L40 TXT/ related
 ZCZC W06 30 L05 Quiz related
+ZCZC W07 200 L99 Offline lecture at campus
+ZCZC W07 200 L09 Week 07 Assignment
+ZCZC W07 30 L01 Scele related
+ZCZC W07 15 L40 TXT/ related
+ZCZC W07 45 L05 Quiz related
